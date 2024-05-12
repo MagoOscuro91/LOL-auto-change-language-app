@@ -1,0 +1,6 @@
+*.py[cod]
+*.db
+.venv
+resources
+src
+requirements.txt
